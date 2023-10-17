@@ -1,2 +1,5 @@
 # Trabalho de modelagem
- Trabalho de Modelagem sobre o sistema "Ball and Beam"
+
+Controle PID de um sistema Ball and Beam.
+
+Realizado em julho de 2023
